@@ -13,9 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>barkbrain</name>
 	<description>Adocal&apos;s file uploading flutter project :: BackEnd</description>
-	<properties>
-		<java.version>11</java.version>
-	</properties>
+	
 	<properties>
 	    <java.version>11</java.version>
 	    <maven.compiler.target>11</maven.compiler.target>
